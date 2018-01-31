@@ -5,5 +5,5 @@ err_data = {
 	"msg": "ad engine result code 312"
 }
 
-def  get_s2s():
+def  s2s_data():
     return json.dumps(err_data)

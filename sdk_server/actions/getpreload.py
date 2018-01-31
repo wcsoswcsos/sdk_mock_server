@@ -588,5 +588,5 @@ data = {
 	}]
 }
 
-def get_preload():
+def preload_data():
     return json.dumps(data)

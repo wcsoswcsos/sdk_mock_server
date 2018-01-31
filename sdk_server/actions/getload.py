@@ -55,5 +55,6 @@ data = {
 	"ad_sale_type": 2
 }
 
-def get_load():
+
+def load_data():
     return json.dumps(data)
